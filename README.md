@@ -8,3 +8,4 @@
 - HLSL Support
 - Error Tracking
 - Ability to have multiple shaders open at once 
+- Custom / Default Themes 
